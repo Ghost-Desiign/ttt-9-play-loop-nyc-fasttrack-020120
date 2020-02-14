@@ -39,8 +39,8 @@ end
 
 def play(board)
   turn = 9
-  loop do
-until turn == 20
+  until turn == 20
+  puts "This is the final move."
   turn += 1
   end
 end

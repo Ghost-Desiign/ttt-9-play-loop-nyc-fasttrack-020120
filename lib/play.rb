@@ -42,7 +42,5 @@ def play(board)
   loop do
 until turn == 20
   turn += 1
-end
-    break
   end
 end

@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  rounds =  
+  rounds = 9 
 
 loop do
   puts 

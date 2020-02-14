@@ -40,10 +40,8 @@ end
 def play(board)
   turn = 9
   loop do
-counter = 0
-until counter == 20
-  puts "The current number is less than 20."
-  counter += 1
+until turn == 20
+  turn += 1
 end
     break
   end

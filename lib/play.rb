@@ -42,6 +42,9 @@ def play(board)
   loop do
     turns
     until turns == 9
+    break
+  end
+  
 
 loop do
   puts 

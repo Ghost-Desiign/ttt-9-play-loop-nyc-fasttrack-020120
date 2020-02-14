@@ -40,5 +40,5 @@ end
 play(board)
 
 loop do
-  
+  puts 
 

@@ -40,7 +40,7 @@ end
 def play(board, turn)
   counter = 0
   until counter == 9
-  puts "#{turn}"
+  turn(board)
   counter += 1
   end
 end

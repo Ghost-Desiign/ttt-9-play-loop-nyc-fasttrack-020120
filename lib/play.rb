@@ -39,6 +39,8 @@ end
 
 def play(board)
   turns = 9
+  loop do
+    turns
 
 loop do
   puts 

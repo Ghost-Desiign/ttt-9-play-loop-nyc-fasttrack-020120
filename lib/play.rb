@@ -46,6 +46,3 @@ def play(board)
   end
 end
 
-loop do
-  puts 
-
